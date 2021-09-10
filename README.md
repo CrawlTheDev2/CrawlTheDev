@@ -6,7 +6,7 @@
 -  **Shell**
 -  **Python**
 
-### Languages Learned
+### Languages I Learned
 
 -  **Typescript**
 -  **Javascript**
